@@ -28,7 +28,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install glitch3d
+    $ sudo gem install glitch3d
 
 ## Usage
 
